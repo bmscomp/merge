@@ -1,4 +1,4 @@
-package org.bmscomp;
+package com.bmscomp;
 
 public class Main {
     public static void main(String[] args) {
