@@ -17,5 +17,6 @@ public record PartialApplication() {
         System.out.println("This is a demo for partial applications!");
         var f = partialApplication(bi, "Hello");
         System.out.println(f.apply("Hello"));
+        System.out.println(f.apply("Hello World"));
     }
 }
